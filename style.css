@@ -1,0 +1,11 @@
+div#identificador span {
+    color: green;
+}
+
+div span {
+    color: blue !important;
+}
+
+span {
+    color: red;
+}
